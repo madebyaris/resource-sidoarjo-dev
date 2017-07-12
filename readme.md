@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Sidoarjo Dev (16 July 2k17)
+=======
+##Sidoarjo Devnjnj (16 July 2k17)
+>>>>>>> 5a87866e1545080ef685e1453e068f8ee9fe555d
 
 ### tujuan Repository
 tujuan repo ini adalah agar teman-teman dengan mudah untuk membangun website menggunakan WordPress yang siap guna dan *layak* untuk dijual
